@@ -1,0 +1,2 @@
+HELLO HELLO
+第一次用GitHub
